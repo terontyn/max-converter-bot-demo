@@ -1,0 +1,8 @@
+.env
+node_modules/
+*.log
+*.pem
+*.key
+.max_marker
+.chat_prefs.json
+demo/generated/
